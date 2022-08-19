@@ -6,7 +6,7 @@
 .DS_Store
 Thumbs.db
 .eslintcache
-
+.czml
 /Apps/CesiumViewer/Gallery/gallery-index.js
 
 /Apps/Sandcastle/jsHintOptions.js

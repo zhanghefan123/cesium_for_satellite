@@ -1,1 +1,1 @@
-_time=start_time, end_time=end_time, outputfile_path="./Apps/SampleData/iridium.czml")
+False
